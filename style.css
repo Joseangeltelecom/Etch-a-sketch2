@@ -1,0 +1,48 @@
+
+header {
+  margin-top: 3rem;
+  padding: 2rem;
+  font-size: 3.2rem;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  font-size: 62.5%;
+  line-height: 1.6;
+}
+
+body {
+  background-color: #ededed;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+
+   .box {
+  display: grid;
+  max-width: 500px;
+  min-height: 500px;
+  margin: 2rem auto;
+  border: 2px solid #222;
+  
+}
+
+.gridElement {
+
+border: 1px solid #222;
+background-color: #ededed;
+
+}
+
+
+.button {
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 6px;
+  border: 2px solid #333;
+  background-color: #555;
+  color: #ededed;
+  font-family: inherit;
+  font-size: 1.6rem;
+  outline: none;
+}

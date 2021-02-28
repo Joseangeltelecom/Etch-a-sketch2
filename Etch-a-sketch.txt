@@ -1,0 +1,31 @@
+1. 16x16 grid of square divs.
+
+2. Create the divs using JavaScript.
+
+3 Put the square inside another container. (the best)
+
+4. ways: 
+float/clear
+inline-block
+flexbox
+CSS Grid
+
+5. Be careful with borders and margins, they can adjust the size of the squares!
+6. Set up a “hover” effect so that the grid divs change color when your mouse passes over them, leaving a (pixelated) trail through your grid like a pen would.
+Hint: Set up event listener hover.
+
+7.Change de color of a DIV: add a new class to the div or changing the div’s background color using JavaScript.
+8. add button to the top to:
+ - clear the current grid 
+- send a popup (how many squares per side to make the new grid). a new sketch with different side.
+- Set the limit for the user input to a maximum of 100. 
+- Research button tags in HTML and how you can make a JavaScript function run when one is clicked.
+- Also check out prompts
+- if I enter 64 into the propmt I'll get 64x64.without changing the total amount of pixels used.
+
+9. (Optional):Instead of just changing the color of your grid from black to white (for example) have each pass through it with the mouse change to a completely random RGB value. Then try having each pass just add another 10% of black to it so that only after 10 passes is the square completely black.
+10. push into Github.
+
+E6a5o5p7k2x0q
+#B01CE4@4429BA*
+admin#B01CE4@4429BA*
